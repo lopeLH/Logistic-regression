@@ -4,7 +4,7 @@ Logistic Regression by gradient descent
 <img src="https://github.com/lopeLH/LogisticRegression/blob/master/LogisticRegression/githubImages/Sin%20t%C3%ADtulo.png"  width=350 height=455 />
 
 
-this is a Java implementation of the Logistic Regression classification technique. (Only two feature
+this is a Java implementation of the Logistic Regression classification technique. (Only two features
 are provided but we generate more by exponentiation of those provided).The algorithm is applied the same way if we have more natural features (but it would be harder to represent graphically).
 
 The implementation is based on the following update rule,as explained by prof. Andrew Ng at the Stanford-Machine Learning course in Coursera:
